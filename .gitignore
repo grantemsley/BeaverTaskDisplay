@@ -1,0 +1,35 @@
+# Unity meta files (only meaningful inside a Unity project)
+*.meta
+
+# Build output / Unity caches
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+[Ll]ibrary/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+# IDE / editor caches
+.vs/
+**/.vs/
+.vscode/
+.idea/
+*.iml
+omnisharp.json
+
+# Auto-generated project files
+*.csproj
+*.csproj.meta
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+
+# OS junk
+Thumbs.db
+.DS_Store
+*.tmp
+~*
