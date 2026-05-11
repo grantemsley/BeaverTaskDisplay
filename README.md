@@ -38,7 +38,7 @@ Beaver Task Display fixes that. Click any beaver, bot, or golem and you'll immed
 
 ## Install — Steam Workshop (recommended)
 
-1. Subscribe at the Steam Workshop page: *(URL added once the mod is published)*
+1. Subscribe at the Steam Workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=3724431393
 2. Launch Timberborn — the Mod Manager will detect and list the mod.
 3. Enable it and start (or load) a save.
 
