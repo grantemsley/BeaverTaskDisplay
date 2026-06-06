@@ -1,0 +1,34 @@
+ID,Text,Comment
+grantemsley.BeaverTaskDisplay.Idle,待命,Shown when the entity has no current task.
+grantemsley.BeaverTaskDisplay.TaskPrefix,当前状态：{0},"Wraps all task descriptions. {0} is the task name. Translators can reorder or reword as needed."
+grantemsley.BeaverTaskDisplay.Executor.Waiting,等待中,
+grantemsley.BeaverTaskDisplay.Executor.Building,正在建造,
+grantemsley.BeaverTaskDisplay.Executor.Demolishing,正在拆除,
+grantemsley.BeaverTaskDisplay.Executor.Planting,正在种植,
+grantemsley.BeaverTaskDisplay.Executor.WalkingTo,正走向,"Fallback when walking to a building but the behavior type is not recognized. Building name follows."
+grantemsley.BeaverTaskDisplay.Executor.Working,工作中,
+grantemsley.BeaverTaskDisplay.Executor.Entering,正进入,"Fallback when entering a building but the behavior type is not recognized. Building name follows."
+grantemsley.BeaverTaskDisplay.Executor.Walking,移动中,Fallback when walking to a position with no entity destination and no recognized behavior.
+grantemsley.BeaverTaskDisplay.Executor.Producing,正在生产,
+grantemsley.BeaverTaskDisplay.Executor.Harvesting,正在收获,
+grantemsley.BeaverTaskDisplay.Animation.Eating,进食中,Shown when eating. Also used for the Hunger need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.Drinking,正在饮用,Shown when drinking. Also used for the Thirst need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.Sleeping,正在睡觉,Shown when sleeping. Also used for the Sleep need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.Bathing,正在洗浴,Shown when bathing. Also used for the WetFur need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.HavingFun,游戏中,
+grantemsley.BeaverTaskDisplay.Animation.Healing,治疗中,Shown when healing. Also used for the Injury need via slot-based buildings (e.g. medical bed).
+grantemsley.BeaverTaskDisplay.Animation.Resting,正在休息,
+grantemsley.BeaverTaskDisplay.Walk.HaulFrom,前往搬运:,"Prefix before building name when walking to pick up goods. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.HaulTo,正在搬运到,"Prefix before building name when walking to deliver goods. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.WorkAt,前往工作:,"Prefix before building name when walking to a workplace. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.BuildAt,正在前往建造,"Prefix before building name when walking to a construction site. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.DemolishAt,正在前往拆除,"Prefix before building name when walking to demolish. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.HarvestAt,正在前往收获,"Prefix before building name when walking to harvest/gather/log. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.Plant,正在前往种植,Complete text when walking to a tile position to plant (no entity destination).
+grantemsley.BeaverTaskDisplay.Walk.Sleep,正在前往睡觉,Complete text when walking to a sleep position with no building destination.
+grantemsley.BeaverTaskDisplay.Walk.SleepAt,前往睡觉:,"Prefix before building name when walking to sleep inside a building. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.EatAt,前往进食:,"Prefix before building name when walking to eat. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.DrinkAt,前往饮用:,"Prefix before building name when walking to drink. Building name follows."
+grantemsley.BeaverTaskDisplay.Walk.VisitAt,正在前往参观,"Prefix before building name when walking to an attraction. Building name follows."
+grantemsley.BeaverTaskDisplay.Behavior.EmptyingOutput,正在清空输出,Shown when emptying a workshop's output with no active walking executor.
+grantemsley.BeaverTaskDisplay.Behavior.FillingInput,正在填满输入,Shown when filling a workshop's input with no active walking executor.
